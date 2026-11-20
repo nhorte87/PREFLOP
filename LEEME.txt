@@ -1,0 +1,28 @@
+PREFLOP 6-MAX · APP INSTALABLE
+==============================
+Archivos (todos juntos, en la misma carpeta):
+  index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png,
+  icon-maskable-512.png, apple-touch-icon.png
+
+PASO 1 · SUBIRLA A INTERNET (gratis, una sola vez) - GitHub Pages
+  1. Crea una cuenta gratuita en github.com (si no tienes).
+  2. Arriba a la derecha: "+" > "New repository". Nombre: preflop. Marca "Public". "Create repository".
+  3. En la página del repositorio pulsa "uploading an existing file".
+     Arrastra los 7 archivos (NO la carpeta ni el zip; los archivos sueltos). "Commit changes".
+  4. Ve a Settings > Pages. En "Branch" elige main y "/ (root)". Save.
+  5. Espera 1-2 minutos y recarga. Arriba aparecerá la dirección:
+       https://TU-USUARIO.github.io/preflop/
+     Ábrela en el ordenador para comprobar que funciona.
+
+PASO 2 · INSTALARLA EN EL MÓVIL
+  1. Abre esa dirección en Chrome del móvil (escríbela o pégala en la barra de arriba).
+  2. Espera a que cargue la app.
+  3. Menú de los tres puntos > "Instalar aplicación" o "Añadir a la pantalla de inicio".
+  4. Confirma. Aparece el icono de las dos cartas (A K) con el nombre "Preflop".
+  5. Ábrela una vez con cobertura para que se guarde; después funciona sin internet.
+
+PARA ACTUALIZARLA MÁS ADELANTE
+  Sustituye index.html (y cambia VERSION en sw.js, por ejemplo preflop-v2) en el repositorio.
+  Al abrir la app con internet se actualiza sola.
+
+AVISO: la dirección es pública. Cualquiera con el enlace puede ver los rangos.
